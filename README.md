@@ -1,5 +1,7 @@
 # Free Your Stack
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16557/badge)](https://www.bestpractices.dev/projects/16557) [![CI](https://github.com/paqn-network/free-your-stack/actions/workflows/ci.yml/badge.svg)](https://github.com/paqn-network/free-your-stack/actions/workflows/ci.yml) [![CodeQL](https://github.com/paqn-network/free-your-stack/actions/workflows/codeql.yml/badge.svg)](https://github.com/paqn-network/free-your-stack/actions/workflows/codeql.yml) [![Licence: AGPL v3](https://img.shields.io/badge/licence-AGPL--3.0-blue.svg)](LICENSE)
+
 Tick the paid software your organisation uses (Microsoft 365, Slack, Zoom, Mailchimp, Canva and so on) and get free, open-source alternatives you can actually adopt, plus a migration checklist you can copy or download as Markdown.
 
 Live at [paqn.network/resources/free-your-stack](https://paqn.network/resources/free-your-stack).
