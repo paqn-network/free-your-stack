@@ -37,3 +37,7 @@ Fonts: SIL Open Font License 1.1, see [`public/fonts/OFL-NOTICE.txt`](public/fon
 ## About
 
 Made by [PAQN CIC](https://paqn.network), a UK community interest company (no. 17392031) building open technology for civil society. Contact: hello@paqn.network
+
+## Contributing and releases
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest tools or send changes, and [CHANGELOG.md](CHANGELOG.md) for release notes. Releases use semantic versioning (`vMAJOR.MINOR.PATCH`) and are tagged in git.
